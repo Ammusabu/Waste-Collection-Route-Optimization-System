@@ -28,7 +28,7 @@ An intelligent system for optimizing waste collection routes across 10 Punjab ci
 ## 🛠️ Local Setup (Optional)
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Waste-Collection-Route-Optimization-System.git
+git clone https://github.com/Ammusabu/Waste-Collection-Route-Optimization-System.git
 ```
 # Install dependencies
 ```bash
