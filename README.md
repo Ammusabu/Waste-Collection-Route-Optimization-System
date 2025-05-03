@@ -34,6 +34,10 @@ git clone https://github.com/Ammusabu/Waste-Collection-Route-Optimization-System
 ```bash
 pip install pandas numpy matplotlib seaborn folium geopandas networkx ipywidgets
 ```
+# Google colab link
+```bash
+https://colab.research.google.com/drive/11A-ggth8um6bm8vqA21lB3KlAGb_5No9
+```
 ## 📂 Notebook Guide
 File	Description
 Waste-Collection-Status.ipynb	Real-time bin monitoring dashboard
