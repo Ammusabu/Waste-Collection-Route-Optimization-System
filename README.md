@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/26eb11dc-01cf-435f-ad94-3798079b2566)
 
 
-[![Open in Colab](https://colab.research.google.com/drive/11A-ggth8um6bm8vqA21lB3KlAGb_5No9))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ammusabu/Waste-Collection-Route-Optimization-System/blob/main/main.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Notebook](https://img.shields.io/badge/Platform-Jupyter%20Notebook%20%7C%20Colab-orange)
 
